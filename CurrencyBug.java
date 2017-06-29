@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 import static java.lang.System.*;
 
-public class Main {
+public class CurrencyBug {
 
     public static void main(String[] args) {
         out.println("This bug may causes problem in currency calculation");
